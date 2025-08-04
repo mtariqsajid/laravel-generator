@@ -39,7 +39,7 @@
   },
   "autoload": {
     "psr-4": {
-      "InfyOm\\Generator\\": "src/"
+      "mtariqsajid\\Generator\\": "src/"
     },
     "files": [
       "src/helpers.php"
@@ -53,7 +53,7 @@
   "extra": {
     "laravel": {
       "providers": [
-        "\\InfyOm\\Generator\\InfyOmGeneratorServiceProvider"
+        "\\mtariqsajid\\Generator\\InfyOmGeneratorServiceProvider"
       ]
     }
   },
